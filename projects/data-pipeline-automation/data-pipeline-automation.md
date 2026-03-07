@@ -3,7 +3,7 @@ title: Data Pipeline Automation with BigQuery Continuous Queries and Cloud KMS
 id: pipeline-auto-01
 category: analytics
 difficulty: 200
-subject: gcp
+subject: GCP
 services: BigQuery, Cloud KMS, Cloud Scheduler, Cloud Pub/Sub, Cloud Functions
 estimated-time: 120 minutes
 recipe-version: 1.0
